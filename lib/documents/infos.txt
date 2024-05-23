@@ -1,0 +1,26 @@
+TEMA: Óticas Madagascar (parte administrativa) - cadastro de clientes e receitas de óculos | Software de Gestão
+
+RF 1 - Autenticar usuário (funcionário)
+RF 2 - Cadastrar usuário (funcionário)
+RF 3 - Inserir dados (informações das receitas)
+RF 4 - Atualizar dados (modificar/editar as receitas)
+RF 5 - Recuperar dados (usado stream builder e listview)
+RF 6 - Pesquisar dados (pesquisar as receitas)
+RF 7 - Sobre (infos dos devs e do app)
+
+Sobre um sistema de óticas (quais campos devemos ter):
+- Nome do paciente
+- Idade
+- CPF
+- Valor
+- Data estimada de entrega
+
+Check box -> Se é para perto ou para longe (podendo ser multifocal)
+- OD (Olho direito)
+- OE (Olho esquerdo)
+- 4 Colunas para preenchimento: 
+|-> Esférico (PWR)
+|-> Cilíndrico (CYL)
+|-> Eixo (Axis)
+|-> DIP
+
